@@ -22,6 +22,9 @@ URL = https://go-tiles1.gistda.or.th/mapproxy/wmts/1.0.0/WMTSCapabilities.xml
 
 Name: mo_Thailand_GISTDA_2m
 URL: https://gistdaportal.gistda.or.th/imagedata/rest/services/L02_base/mo_Thailand_GISTDA_2m/ImageServer/WMTS
+
+Name: gistdaportal
+http://gistdaportal.gistda.or.th/data/rest/services
 ```
 # LDD
 ```bash
@@ -34,4 +37,8 @@ https://lddonfarm.ldd.go.th/arcgis/rest/services
 # Forest
 ```bash
 https://gis.forest.go.th/arcgis/rest/services/
+```
+# Longdo Maps
+```bash
+http://ms.longdo.com/mapproxy/service?REQUEST=GetCapabilities
 ```
