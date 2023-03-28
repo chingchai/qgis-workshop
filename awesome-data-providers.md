@@ -5,3 +5,5 @@
 ## Earth Explorer
 - https://earthexplorer.usgs.gov/
 
+## QGIS Data Workshop
+- https://drive.google.com/drive/folders/1BR0jMgUetdBDIRlD33kfhORU9iDmIeUy?usp=share_link
